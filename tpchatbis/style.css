@@ -1,0 +1,53 @@
+h1
+{
+	text-align: center;
+	text-decoration: underline;
+	color: #3498db;
+}
+.chat
+{
+	margin: auto;
+	background-color: #ecf0f1;
+	width: 800px;
+	border: solid 3px;
+	border-color: #bdc3c7;
+	text-align: center;
+}
+
+.erreur
+{
+	color: #e74c3c;
+	font-size: 12px;
+}
+.btn
+{	
+	border:solid 2px white; 
+	font-size: 15px;
+	background-color: #2c3e50;
+	color: white;
+}
+
+.btn:hover
+{
+	background-color: white;
+	color: black;
+}
+.msg
+{
+	background-color: #bdc3c7;
+	margin: 15px;
+	padding: 1px;
+	height: 400px;
+	overflow: scroll;
+}
+.date
+{
+	color: #3498db;
+	float: left;
+	padding-left: 5px;
+}
+label
+{
+	color: #27ae60;
+	font-size: 18px;
+}
